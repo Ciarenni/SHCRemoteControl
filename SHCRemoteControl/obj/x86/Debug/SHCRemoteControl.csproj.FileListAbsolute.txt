@@ -1,0 +1,14 @@
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\SHCRemoteControl\SHCRemoteControl\bin\Debug\SHCRemoteControl.exe
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\SHCRemoteControl\SHCRemoteControl\bin\Debug\SHCRemoteControl.pdb
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\SHCRemoteControl\SHCRemoteControl\bin\Debug\SpaceHardwareClubLibrary.dll
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\SHCRemoteControl\SHCRemoteControl\bin\Debug\SpaceHardwareClubLibrary.pdb
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\SHCRemoteControl\SHCRemoteControl\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\SHCRemoteControl\SHCRemoteControl\obj\x86\Debug\RemoteControl.Properties.Resources.resources
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\SHCRemoteControl\SHCRemoteControl\obj\x86\Debug\RemoteControl.RemoteControl.resources
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\SHCRemoteControl\SHCRemoteControl\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\SHCRemoteControl\SHCRemoteControl\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\SHCRemoteControl\SHCRemoteControl\obj\x86\Debug\SHCRemoteControl.exe
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\SHCRemoteControl\SHCRemoteControl\obj\x86\Debug\SHCRemoteControl.pdb
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\SHCRemoteControl\SHCRemoteControl\obj\x86\Debug\RemoteControl.MainConsole.resources
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\SHCRemoteControl\SHCRemoteControl\obj\x86\Debug\RemoteControl.RadioControl.resources
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\SHCRemoteControl\SHCRemoteControl\obj\x86\Debug\RemoteControl.SerialPortSetup.resources

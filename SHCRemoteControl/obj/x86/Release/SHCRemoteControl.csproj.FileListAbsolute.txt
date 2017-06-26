@@ -1,0 +1,18 @@
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\SHCRemoteControl\SHCRemoteControl\bin\Release\SHCRemoteControl.exe
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\SHCRemoteControl\SHCRemoteControl\bin\Release\SHCRemoteControl.pdb
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\SHCRemoteControl\SHCRemoteControl\bin\Release\SpaceHardwareClubLibrary.pdb
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\SHCRemoteControl\SHCRemoteControl\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\SHCRemoteControl\SHCRemoteControl\obj\x86\Release\RemoteControl.Properties.Resources.resources
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\SHCRemoteControl\SHCRemoteControl\obj\x86\Release\RemoteControl.RemoteControl.resources
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\SHCRemoteControl\SHCRemoteControl\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\SHCRemoteControl\SHCRemoteControl\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\SHCRemoteControl\SHCRemoteControl\obj\x86\Release\SHCRemoteControl.exe
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\SHCRemoteControl\SHCRemoteControl\obj\x86\Release\SHCRemoteControl.pdb
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\SHCRemoteControl\SHCRemoteControl\obj\x86\Release\RemoteControl.MainConsole.resources
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\SHCRemoteControl\SHCRemoteControl\obj\x86\Release\RemoteControl.RadioControl.resources
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\SHCRemoteControl\SHCRemoteControl\bin\Release\SpaceHardwareClubLibrary.dll
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\SHCRemoteControl\SHCRemoteControl\obj\x86\Release\RemoteControl.SerialPortSetup.resources
+D:\lifeboat from laptop\VS2010\Projects\SHCRemoteControl\SHCRemoteControl\obj\x86\Release\SHCRemoteControl.exe
+D:\lifeboat from laptop\VS2010\Projects\SHCRemoteControl\SHCRemoteControl\obj\x86\Release\SHCRemoteControl.pdb
+D:\GitHub Repos\SHCRemoteControl\SHCRemoteControl\obj\x86\Release\SHCRemoteControl.exe
+D:\GitHub Repos\SHCRemoteControl\SHCRemoteControl\obj\x86\Release\SHCRemoteControl.pdb

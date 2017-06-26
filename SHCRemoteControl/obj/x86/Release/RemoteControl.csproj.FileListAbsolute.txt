@@ -1,0 +1,10 @@
+C:\Users\Justin\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+C:\Users\Justin\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+C:\Users\Justin\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Release\SpaceHardwareClubLibrary.dll
+C:\Users\Justin\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Release\SpaceHardwareClubLibrary.pdb
+C:\Users\Justin\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Justin\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Release\RemoteControl.Properties.Resources.resources
+C:\Users\Justin\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Justin\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Justin\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.exe
+C:\Users\Justin\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.pdb
